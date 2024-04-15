@@ -1,6 +1,5 @@
 # chat-box-exactspace-sub
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a7a6fbe3-b3ef-4c64-9929-87d349d33b95/deploy-status)](https://app.netlify.com/sites/chatbox-assignment-sub/deploys)  
-[Link](https://chatbox-assignment-sub.netlify.app/)  
+Live Demo --> 
 ## About
 ChatBox is a submision for ExactSpace ReactJS internship assignment.  
 Based on Assignment.  
